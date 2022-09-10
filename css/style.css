@@ -281,7 +281,7 @@ body.resume-opened .deebo_fn__cv .cv__bg2{
 	font-size: 28px;
 	text-transform: uppercase;
 	letter-spacing: .5px;
-	margin-bottom: 20px;
+	margin-bottom: -5px;
 }
 .deebo_fn__cv .cv__header h3 span{
 	color: var(--mc);
